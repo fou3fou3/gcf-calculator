@@ -3,7 +3,5 @@ this is very fast and small calculator for greatest common factor you need pytho
 python3 + /thepath_for_dir/gcf-calculator/main.py 
 + Im learning git LOL
 
-https://img.shields.io/badge/My-repo-blue
-
 ![bleh](https://img.shields.io/badge/MY-repo-blue)
 Enjoy Coding ❤
