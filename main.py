@@ -15,4 +15,5 @@ def calculate(n1,n2):
         n2 = num_3
         num_3 = n1%n2
     print(f"the gcf for {num_1} and {num_2} is {n2}.")
-    return n2
+
+calculate(num_1, num_2)
